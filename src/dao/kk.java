@@ -25,6 +25,7 @@ public class kk {
         }catch (SQLException e) {
             e.printStackTrace();
         }
+        System.out.println("SUBHAN ALLAH");
 
     }
 }
